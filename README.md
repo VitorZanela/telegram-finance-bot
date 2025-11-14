@@ -70,9 +70,9 @@ Para visualizar ou editar o diagrama:
 - Acesse o draw.io
 [🔗 **Acessar o Draw.io**](https://app.diagrams.net/)
 
-- Clique em "Arquivo" → "Abrir de" → "URL"
+- Clique em "Arquivo" → "Abrir de" → "Aparelho/Dispositivo"
 
-- Cole o link do arquivo .xml do seu diagrama
+- Buscar o arquivo salvo e selecionar
 
 ## ⚙️ Configuração
 
