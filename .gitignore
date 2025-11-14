@@ -34,7 +34,7 @@ build/
 
 ### ARQUIVOS ###
 application.properties
-TASK.txt
+TASKS
 
 ### Pastas ###
 .gitattributes
