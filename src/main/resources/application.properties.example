@@ -1,0 +1,20 @@
+# application-example.properties
+# =============================
+# COPIE ESTE ARQUIVO PARA application.properties E CONFIGURE
+
+# Database PostgreSQL
+spring.datasource.url=jdbc:postgresql://localhost:5432/SEU_BANCO_AQUI
+spring.datasource.username=SEU_USUARIO_AQUI
+spring.datasource.password=SUA_SENHA_AQUI
+spring.datasource.driver-class-name=org.postgresql.Driver
+
+# JPA/Hibernate
+spring.jpa.generate-ddl=true
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.show-sql=true
+spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.PostgreSQLDialect
+spring.jpa.properties.hibernate.jdbc.time_zone=America/Sao_Paulo
+
+#Bot Telegram (BotFather)
+telegram.bot.username=NOME_DO_SEU_BOT_AQUI
+telegram.bot.token=TOKEN_DO_SEU_BOT_AQUI
