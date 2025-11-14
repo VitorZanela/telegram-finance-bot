@@ -59,6 +59,21 @@ src/main
 - **PostgreSQL**
 - **JPA/Hibernate**
 
+## 🏗️ Estrutura/arquitetura
+
+#### O diagrama completo da arquitetura do sistema está disponível para visualização online:
+
+Para visualizar ou editar o diagrama:
+- Baixe o arquivo com o diagrama  
+[🔗 **Download do arquivo**](https://drive.google.com/file/d/1i11ipMekiS5Vj9fwyx8hI7Ld1UgCorg5/view?usp=sharing)
+
+- Acesse o draw.io
+[🔗 **Acessar o Draw.io**](https://app.diagrams.net/)
+
+- Clique em "Arquivo" → "Abrir de" → "URL"
+
+- Cole o link do arquivo .xml do seu diagrama
+
 ## ⚙️ Configuração
 
 ### 1. Criar Bot no Telegram
